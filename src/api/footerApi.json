@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "bengaluru,karnataka,india"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "7300310165"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "sky143c@gmail.com"
+  }
+]
